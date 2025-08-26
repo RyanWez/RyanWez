@@ -19,11 +19,23 @@
 
 ---
 
-### 👨‍💻 **About Me**
+## 👨‍💻 About Me  
 
-- 🤖 Passionate about leveraging Artificial Intelligence to build practical and impactful digital solutions.  
-- 🌐 Experienced in blending AI with modern web technologies to create Web Applications and Chatbots.  
-- 🚀 Enthusiastic about rapidly prototyping ideas and transforming them into real-world projects.  
+I am a developer passionate about building intelligent, **API-driven applications** by combining **Artificial Intelligence** with modern web technologies.  
+
+- 🤖 Skilled in integrating **world-class AI APIs** (OpenAI, HuggingFace, etc.) into real-world projects.  
+- 🌐 Experienced in full-stack development with scalable and user-focused designs.  
+- 🚀 Enjoy rapid prototyping and turning ideas into production-ready solutions.  
+- 🎯 Focused on solving problems with practical, technology-driven approaches.  
+
+---
+
+## 🧩 Core Expertise  
+
+- **AI & API Integration**: OpenAI, HuggingFace, TensorFlow APIs  
+- **Web Development**: Full-stack apps with modern frameworks  
+- **Chatbots & Assistants**: Telegram Bots, AI-driven chat systems  
+- **Rapid Prototyping**: From idea to working MVPs quickly  
 
 ---
 
